@@ -1,0 +1,9 @@
+restAPI/PostRequestWithMap.class
+restAPI/PutRequest.class
+restAPI/GetRequestWithParameter.class
+restAPI/GetRequest.class
+restAPI/PostCallWithJSONFile.class
+restAPI/PostRequestWithJSONObject.class
+restAPI/PostRequest.class
+restAPI/DeleteRequest.class
+restAPIChaining/EndToEndTest.class
